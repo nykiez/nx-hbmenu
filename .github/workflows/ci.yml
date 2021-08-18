@@ -19,7 +19,7 @@ jobs:
   build:
     name: ubuntu-18.04
     runs-on: ubuntu-18.04
-    container: devkitpro/devkitppc:latest
+    container: devkitpro/devkita64:latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
